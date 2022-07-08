@@ -1,0 +1,12 @@
+polynom_noise_trend_B_ws2000.npy and 
+polynom_slope_trend_B_ws2000.npy
+
+contain arrays of shape (number_of_windows, 3). The last index denotes
+
+0 mode of the estimate,
+1 lower 16%-percentile bound,
+2 upper 84%-percentile bound.
+
+The outer 1%-/99%-percentile bounds are saved in
+polynom_sigma_storage_ws2000.npy of shape (2,number_of_windows,2)
+with the first index denoting the slopes by 0 and the noise level by 1.
