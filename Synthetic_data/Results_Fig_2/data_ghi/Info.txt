@@ -3,3 +3,8 @@ The third index corresponds to 0 mode estimate and 1,2 to 16%-/84%- percentiles.
 The first index denotes the drift slopes with 0 and the noise level estimate with 1.
 
 The outer credibility intervals 1%-/99%-percentiles are saved the same way in polynom_sigma_storage_fold_coupled_corr_noiseII_ws2000.npy.
+
+psi_noise_level_fold_coupled_corr_noiseII.npy contains the expected noise level based on the synthetic data.
+
+In SI_appendix you can find the Gaussian kernel smoothed (width = 100) analytical values of the drift slope calculated on the synthetic data.
+
