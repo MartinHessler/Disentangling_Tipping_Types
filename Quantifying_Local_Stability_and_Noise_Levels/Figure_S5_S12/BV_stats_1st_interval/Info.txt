@@ -1,0 +1,2 @@
+The MAP_BLE_params and MAP_NBLE_params can be used to reproduce the statistics.
+The function gaussian_kde from scipy.stats is used to create the kernel density estimates applying "Silverman's rule".
