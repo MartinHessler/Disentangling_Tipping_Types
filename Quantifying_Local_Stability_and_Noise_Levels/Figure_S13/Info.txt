@@ -1,0 +1,3 @@
+Scripts for the (N)BLE are included in the corresponding folders. If some windows require long Markov chains, it is recommended
+to start with a moderate nsteps that ensures convergence on most of the windows. After a first run, collect the missing windows 
+and repeat the computations with an increased nsteps for those windows.
