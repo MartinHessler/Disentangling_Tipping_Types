@@ -119,5 +119,5 @@ plt.subplots_adjust(
 	wspace = 0.2,
 	hspace = 0.2
 	)
-plt.savefig('FigureS10_abc.pdf')
+plt.savefig('FigureS12_abc.pdf')
 plt.show()

@@ -251,5 +251,5 @@ num_ax32 = fig.add_axes([-0.01, 0.165, 0.038, 0.038], anchor='NE', zorder=10)
 num_ax32.imshow(numberthree)
 num_ax32.axis('off')
 
-plt.savefig('Figure_S12.pdf', dpi = 200)
+plt.savefig('Figure_S14.pdf', dpi = 200)
 plt.show()

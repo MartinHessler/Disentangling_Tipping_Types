@@ -262,5 +262,5 @@ plt.subplots_adjust(
 	hspace = 0.2
 	)
 
-plt.savefig('Figure_S11_def.pdf')
+plt.savefig('Figure_S13_def.pdf')
 plt.show()

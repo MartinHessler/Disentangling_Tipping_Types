@@ -386,7 +386,7 @@ noise_level_axs[2].set_xticks([0,1000])
 noise_level_axs[3].set_xticks([0,1000])
 noise_level_axs[4].set_xticks([0,2000])
 
-plt.savefig('Figure_S13.pdf')
+plt.savefig('Figure_S15.pdf')
 plt.show()
 
 ################################################################################
