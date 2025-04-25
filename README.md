@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/511899287.svg)](https://doi.org/10.5281/zenodo.15282709)
+
 # Disentangling Tipping Types
 Contains the synthetic and empirical data as well as supplementary material of the corresponding publication "Disentangling Tipping-Types in power outage data". The analysis can be performed with the Python package "antiCPy".
 
